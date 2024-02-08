@@ -1,2 +1,0 @@
-# .github
-EwhaKing Organization Overview
