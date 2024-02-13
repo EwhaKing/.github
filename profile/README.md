@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=00462A&fontColor=FFFFFF&height=150&text=🖐Hello\,KING\!&fontSize=50&&fontAlign=70&rotate=10&fontAlignY=25&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=slice&color=00462A&fontColor=FFFFFF&height=150&text=🖐Hello\,KING\!&fontSize=50&&fontAlign=75&rotate=10&fontAlignY=25&animation=blinking)
 
 # 👑KING
 
