@@ -1,12 +1,13 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=00462A&fontColor=FFFFFF&height=150&text=🖐Hello\,KING\!&fontSize=50&&fontAlign=70&rotate=10&fontAlignY=25&animation=blinking)
 
-<!--
+# 👑KING
 
-**Here are some ideas to get you started:**
+이화여자대학교 교내 게임개발동아리
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* KING : 즐(KIN)거운 Game 제작의 줄임말
+* 2011년 설립(2024년 기준 14기)
+* 매주 목요일 오후 6시 30분 정기모임
+
+# 📞Contact
+* Instagram : @ewha_king
+* E-mail : ewha_king@naver.com
